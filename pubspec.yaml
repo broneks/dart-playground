@@ -1,0 +1,4 @@
+name: dart_playground
+author: Bronek Szulc
+dependencies:
+  browser: any
