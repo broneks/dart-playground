@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "title": "Lucy",
+      "year": 2014,
+      "genre": "Action / Sci-Fi",
+      "rating": 6.6,
+      "poster": "lucy.jpg",
+      "description": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+      "crew": {
+        "director": "Luc Besson",
+        "stars": [
+          "Scarlett Johansson",
+          "Morgan Freeman",
+          "Min-sik Choi"
+        ]
+      }
+    },
+    {
+      "title": "The Expendables 3",
+      "year": 2014,
+      "genre": "Action / Adventure / Thriller",
+      "rating": 6.3,
+      "poster": "the-expendables-3.jpg",
+      "description": "Barney augments his team with new blood for a personal battle: to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.",
+      "crew": {
+        "director": "Patrick Hughes",
+        "stars": [
+          "Sylvester Stallone",
+          "Jason Statham",
+          "Jet Li"
+        ]
+      }
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "year": 2014,
+      "genre": "Animation / Action / Adventure",
+      "rating": 8.4,
+      "poster": "how-to-train-your-dragon-2.jpg",
+      "description": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+      "crew": {
+        "director": "Dean DeBlois",
+        "stars": [
+          "Jay Baruchel",
+          "Cate Blanchett",
+          "Gerard Butler"
+        ]
+      }
+    },
+    {
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014,
+      "genre": "Action / Drama / Sci-Fi",
+      "rating": 8.1,
+      "poster": "dawn-of-the-planet-of-the-apes.jpg",
+      "description": "In the wake of a disaster that changed the world, the growing and genetically evolving apes find themselves at a critical point with the human race.",
+      "crew": {
+        "director": "Matt Reeves",
+        "stars": [
+          "Gary Oldman",
+          "Keri Russell",
+          "Andy Serkis"
+        ]
+      }
+    }
+  ]
+}

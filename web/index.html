@@ -9,6 +9,49 @@
 </head> 
 <body>
     
+    <div id="container">
+        <div class="search">
+            <label for="movies">Movies</label>
+            <select id="movies">
+                <option value="-1">Select a Movie</option>
+            </select>
+        </div>
+        
+        <article>
+            <div class="details">
+                <header>
+                    <div class="header-info">
+                        <h1 class="title"></h1>
+                    
+                        <span class="year"></span>
+                        
+                        <p class="genre"></p>
+                    </div>
+                    
+                    <div class="rating"></div>
+                </header>
+                
+                <p class="description"></p>
+                
+                <div class="crew">
+                    <div class="crew-container">
+                        <span class="label">Director:</span>
+                        <span class="director"></span>
+                    </div>
+                    
+                    <div class="crew-container">
+                        <span class="label">Stars:</span>
+                        <span class="stars"></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="poster">
+                <img src="" alt="Image">
+            </div>
+        </article>
+    </div>
+    
     <script type="application/dart" src="main.dart"></script>
     <script src="packages/browser/dart.js"></script>
   </body>
